@@ -2,7 +2,7 @@
 
 namespace DemoProgra3
 {
-    public class Estudiante
+    public class Empleado
     {
     }
 }
